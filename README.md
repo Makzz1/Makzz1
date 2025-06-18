@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makzz1&layout=compact&theme=tokyonight)
-![LeetCode Stats](https://leetcard.jacoblin.cool/makzz?theme=dark&font=Lato&extension=activity&animation=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/makzz?theme=dark&font=Lato&extension=activity&animation=true&hide=ranking)
 
 
