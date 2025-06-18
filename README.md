@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Makzz1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makzz1&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Makzz1&theme=tokyonight&hide_border=true)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Makzz1.Makzz1)
+![](https://api.visitorbadge.io/api/visitors?path=Makzz1&label=Visitors&countColor=%23263759)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/makzz?theme=dark&font=Baloo&extension=activity)
 
