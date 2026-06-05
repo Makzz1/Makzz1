@@ -19,26 +19,27 @@ What drives me most is curiosity. I enjoy understanding how things work—from s
 
 ---
 
-## 🔥 Current Focus
+## 🚧 Currently Building
 
-### Backend Engineering
+### Food Redistribution Platform
 
-- Building scalable backend applications using Java and Spring Boot
-- Designing secure REST APIs
-- Learning advanced backend architecture patterns
-- Exploring distributed systems concepts
+Building a backend system that helps connect food donors with nearby receivers.
 
-### System Design
+Features:
 
-Currently learning:
+- JWT Authentication
+- Spring Security
+- Location Based Matching
+- Async Notifications
+- Email Verification
+- Claim Tracking
+- Geo Search
 
-- High-Level System Design
-- Low-Level System Design
-- Scalability Principles
-- Distributed Systems
-- Caching Strategies
-- Database Optimization
-- Concurrency & Multithreading
+Current challenge:
+
+Designing the system to handle scale, concurrency and efficient location-based discovery.
+
+---
 
 ### Problem Solving
 
@@ -46,72 +47,31 @@ Currently learning:
 - Strong focus on Data Structures & Algorithms
 - Preparing for Software Engineering interviews
 
+
+## 📈 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/makzz?theme=dark&font=Lato&extension=activity&animation=true&hide=ranking" alt="LeetCode Stats" />
+</p>
+
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Developer Snapshot
 
-### Languages
+Backend:
+Java • Spring Boot • Spring Security • Hibernate
 
-```text
-Java • Python • JavaScript • SQL
-```
+Databases:
+MySQL • PostgreSQL • Redis
 
-### Backend
+Frontend:
+React • JavaScript • HTML • CSS
 
-```text
-Java Ecosystem
-├── Spring Boot
-├── Spring Security
-├── Spring Data JPA
-└── Hibernate
+Tools:
+Git • Docker • Linux • Postman
 
-Python Ecosystem
-├── FastAPI
-└── Flask
-
-API Development
-├── REST APIs
-└── JWT Authentication
-```
-
-### Databases
-
-```text
-MySQL
-Postgres
-Redis (Learning)
-```
-
-### Web Development
-
-```text
-React
-Ajax
-Javascript
-HTML
-CSS
-```
-
-### Tools & Platforms
-
-```text
-Git
-GitHub
-Docker
-Postman
-Linux
-```
-
-### Computer Science Fundamentals
-
-```text
-Data Structures & Algorithms
-Database Management Systems
-Operating Systems
-Computer Networks
-Object-Oriented Design
-System Design
-```
+Currently Learning:
+System Design • Distributed Systems • Caching • Concurrency
 
 ---
 
@@ -127,38 +87,19 @@ System Design
 
 ---
 
-## 📈 LeetCode Progress
+## 💭 Philosophy
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/makzz?theme=dark&font=Lato&extension=activity&animation=true&hide=ranking" alt="LeetCode Stats" />
-</p>
+I don't like using technology as a black box.
 
----
+When I learn something, I eventually want to understand:
 
-## 📊 Most Used Languages
+- How it works
+- Why it works
+- What happens underneath
+- How it scales
+- Where it breaks
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Makzz1&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages Used" />
-</p>
-
----
-
-## 🎯 Engineering Philosophy
-
-> I don't just like building software—I enjoy understanding how it works underneath.
->
-> Whether it's a database index, a distributed system, a network protocol, or a backend architecture, I'm always interested in exploring the "why" behind the technology.
-
----
-
-## 🌍 Beyond Coding
-
-When I'm not coding, I enjoy:
-
-- ✈️ Traveling and exploring new places
-- 📚 Learning about emerging technologies
-- 🔍 Understanding how systems work in the real world
-- 🧠 Continuous self-learning and skill development
+That mindset is what pushed me from writing code to studying system design, databases, networking, concurrency and distributed systems.
 
 ---
 
